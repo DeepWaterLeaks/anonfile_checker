@@ -54,6 +54,7 @@ $ pip install bs4
 
 $ pkg install clang && pkg install libxml2 libxslt && pkg install libxml2 libxslt && pip install cython && pip install lxml
 ```
+<br />
 
 ## Usage
 To start the checker, go into its directory and type:
@@ -65,6 +66,7 @@ Then you get asked what kind of proxys you put into the proxys.txt<br />
 Enter HTTP if its http/https, SOCKS4 if its socks4 and SOCKS5 if its socks5
 <br />
 Then the Checker starts working
+<br />
 <br />
 
 ## Disclaimer
