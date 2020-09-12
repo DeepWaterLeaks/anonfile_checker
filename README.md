@@ -6,6 +6,7 @@
 * [General info](#general-info)
 * [Releases](#releases)
 * [Installation](#installation)
+* [Installation in Termux](#installation-in-termux)
 * [Usage](#usage)
 * [Disclaimer](#disclaimer)
 * [Credits](#credits)
@@ -35,6 +36,19 @@ $ git clone https://github.com/DeepWaterLeaks/anonfile_checker.git
 $ pip3 install -r requirements.txt
 ```
 <br />
+
+## Installation in Termux
+```
+$ git clone https://github.com/DeepWaterLeaks/anonfile_checker.git
+
+$ pip install colorma
+
+$ pip install requests
+
+$ pip install bs4
+
+$ pkg install clang && pkg install libxml2 libxslt && pkg install libxml2 libxslt && pip install cython && pip install lxml
+```
 
 ## Usage
 To start the checker, go into its directory and type:
