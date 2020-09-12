@@ -1,4 +1,4 @@
-
+# Python Anonfiles Account Checker
 
 
 
@@ -6,6 +6,9 @@
 * [General info](#general-info)
 * [Releases](#releases)
 * [Installation](#installation)
+* [Usage](#usage)
+* [Disclaimer](#disclaimer)
+* [Credits](#credits)
 
 
 
@@ -16,7 +19,11 @@ Is has a implemented proxy usage and saves the hits to a hits.txt file.
 
 	
 ## Releases
-Anonfile Checker v0.5
+**Anonfile Checker v0.5**
+* Added main Checker on github
+* Completed main Code
+* Checker is kinda running stable
+
 	
 ## Installation
 To install this checker, simply copy & paste the following Code into your terminal:
@@ -49,11 +56,11 @@ Then the Checker starts working
 This Checker was made by DeepWaterLeaks and TheMasterCH
 * _Channels :_ 
 
-[Deepwaterleaks](https://t.me/deepwaterleaks2)
+* [Deepwaterleaks](https://t.me/deepwaterleaks2)
 
-[LeakerHounds](https://t.me/LeakerHounds)
+* [LeakerHounds](https://t.me/LeakerHounds)
 
-[ViperZCrew](https://t.me/ViperZCrew)
+* [ViperZCrew](https://t.me/ViperZCrew)
          
 
 
