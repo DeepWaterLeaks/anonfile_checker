@@ -1,6 +1,7 @@
 # Python Anonfiles Account Checker
 
-
+![menu](menu.PNG)
+<br />
 
 ## Table of contents
 * [General info](#general-info)
