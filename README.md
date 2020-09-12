@@ -32,7 +32,7 @@ To install this checker, simply copy & paste the following Code into your termin
 ```
 $ git clone https://github.com/DeepWaterLeaks/anonfile_checker.git
 
-$ pip3 install requirements.txt
+$ pip3 install -r requirements.txt
 ```
 <br />
 
