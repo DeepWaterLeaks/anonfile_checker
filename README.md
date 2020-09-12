@@ -34,6 +34,8 @@ To install this checker, simply copy & paste the following Code into your termin
 ```
 $ git clone https://github.com/DeepWaterLeaks/anonfile_checker.git
 
+$ cd anonfile_checker
+
 $ pip3 install -r requirements.txt
 ```
 <br />
@@ -41,6 +43,8 @@ $ pip3 install -r requirements.txt
 ## Installation in Termux
 ```
 $ git clone https://github.com/DeepWaterLeaks/anonfile_checker.git
+
+$ cd anonfile_checker
 
 $ pip install colorma
 
