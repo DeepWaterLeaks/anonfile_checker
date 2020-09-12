@@ -9,13 +9,13 @@
 * [Usage](#usage)
 * [Disclaimer](#disclaimer)
 * [Credits](#credits)
-
+<br />
 
 
 ## General info
-Anonfile_checker is a simple python script to check a Combo for working anonfiles.com Accounts.
+Anonfile_checker is a simple python script to check a Combo for working anonfiles.com Accounts.<br />
 Is has a implemented proxy usage and saves the hits to a hits.txt file.
-
+<br />
 
 	
 ## Releases
@@ -23,6 +23,7 @@ Is has a implemented proxy usage and saves the hits to a hits.txt file.
 * Added main Checker on github
 * Completed main Code
 * Checker is kinda running stable
+<br />
 
 	
 ## Installation
@@ -33,6 +34,7 @@ $ git clone https://github.com/DeepWaterLeaks/anonfile_checker.git
 
 $ pip3 install requirements.txt
 ```
+<br />
 
 ## Usage
 To start the checker, go into its directory and type:
@@ -40,21 +42,23 @@ To start the checker, go into its directory and type:
 $ python anonfile_checker.py
 ```
 
-Then you get asked what kind of proxys you put into the proxys.txt
+Then you get asked what kind of proxys you put into the proxys.txt<br />
 Enter HTTP if its http/https, SOCKS4 if its socks4 and SOCKS5 if its socks5
-
+<br />
 Then the Checker starts working
-
+<br />
 
 ## Disclaimer
   * Use this tool for educational purposes only.
   * If you do any illegal attacks, i am not responsible for your tasks.
   * Use this tool correctly, and do not re-upload it on your github repository without permissions.
+  <br />
 
 
 # Credits
 This Checker was made by DeepWaterLeaks and TheMasterCH
-* _Channels :_ 
+<br />
+ _Channels :_ 
 
 * [Deepwaterleaks](https://t.me/deepwaterleaks2)
 
