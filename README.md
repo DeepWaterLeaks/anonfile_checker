@@ -16,7 +16,7 @@
 
 ## General info
 Anonfile_checker is a simple python script to check a Combo for working anonfiles.com Accounts.<br />
-Is has a implemented proxy usage and saves the hits to a hits.txt file.
+It has a implemented proxy usage and saves the hits to a hits.txt file.
 <br />
 
 	
